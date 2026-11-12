@@ -1,0 +1,331 @@
+ 1055  git init
+ 1057  git status 
+ 1059  git status 
+ 1060  vim .gitignore
+ 1061  git status 
+ 1062  vim .gitignore
+ 1063  git status 
+ 1064  git add Makefile .gitignore rand.c smpl.* tempo*
+ 1065  git status 
+ 1066  git commit -m "Initial commit, task0"
+ 1067  git remote add origin git@github.com:Ricardows7/distributedSystems.git
+ 1068  git branch -M main
+ 1069  git status 
+ 1070  git push -U origin main 
+ 1071  git push -u origin main 
+ 1072  git reset --hard HEAD 1
+ 1073  git reset --hard HEAD~1
+ 1074  git log
+ 1075  git reset --help
+ 1076  git reset --hard HEAD~1
+ 1077  git reset --help
+ 1078  git reset --hard HEAD~1
+ 1079  git update-ref -d HEAD
+ 1080  git update-ref --help
+ 1081  git status 
+ 1082  git rm tempo1.c tempo2.c 
+ 1083  git status 
+ 1084  git rm --cached tempo1.c tempo2.c 
+ 1085  git status 
+ 1086  git branch 
+ 1087  git branch -M task0
+ 1088  git branch 
+ 1089  git branch -vv
+ 1090  git status 
+ 1091  git push -u origin task0
+ 1092  git push -u origin task0 -f
+ 1093  git push --help
+ 1094  git push -u origin task0 -f
+ 1095  git status 
+ 1096  git add tempo*
+ 1097  git status 
+ 1098  git branch 
+ 1099  git checkout -b main
+ 1100  git status 
+ 1101  git pull origin main
+ 1102  git status 
+ 1103  git branch -vv
+ 1104  git branch --set-upstream-to=origin/main 
+ 1105  git branch --vv
+ 1106  git branch -vv
+ 1107  git checkout task0
+ 1108  git status 
+ 1109  git branch 
+ 1110  git checkout -b task0
+ 1111  git status 
+ 1112  git update-ref -d HEAD
+ 1113  git status 
+ 1115  git status 
+ 1116  git add Makefile 
+ 1117  git status 
+ 1118  git commit -m "Task 1 completed successfully"
+ 1119  git status 
+ 1120  git reset --hard HEAD~1
+ 1121  git update-ref -d HEAD
+ 1122  git status 
+ 1123  git rm --cached tempo2.c 
+ 1124  git status 
+ 1126  git status 
+ 1127  git comit -m "Task 1 completed successfully"
+ 1128  git commit -m "Task 1 completed successfully"
+ 1129  git status 
+ 1130  git branch --set-upstream-to=origin/task0
+ 1131  git push -u origin task0
+ 1132  git push -u origin task1
+ 1133  git status 
+ 1134  git push -u origin task1
+ 1135  git status 
+ 1136  git branch -vv
+ 1137  git branch --unset-upstream 
+ 1138  git status 
+ 1139  git push -u origin task1
+ 1140  git status 
+ 1141  git branch -vv
+ 1142  git branch -M task1
+ 1143  git push -u origin task1
+ 1144  git checkout -b task2
+ 1145  git status 
+ 1146  git add tempo2.c 
+ 1154  git status 
+ 1155  git add Makefile 
+ 1156  git status 
+ 1157  git log
+ 1158  git commit -m "Task 2 completed successfully"
+ 1159  git checkout -b task3
+ 1160  git status 
+ 1177  git init
+ 1178  git add .
+ 1179  git restore .
+ 1180  git status 
+ 1181  git rm --cached .
+ 1182  git status 
+ 1183  git rm --cached mermaid.js pseudocodigo.txt 
+ 1184  git stat
+ 1185  git status 
+ 1187  git status 
+ 1190  git status 
+ 1191  git add .
+ 1192  git status 
+ 1193  git commit -m "initial commit"
+ 1194  git branch -M main
+ 1195  git status 
+ 1196  git remote add origin git@github.com:Ricardows7/Security-in-VANET-s.git
+ 1197  git push -u origin main
+ 1237  git status 
+ 1238  git add .
+ 1239  git commit -m "initial code commit"
+ 1240  git push
+ 1244  git status 
+ 1245  git checkout -b deterministic_election
+ 1275  git status 
+ 1277  git status 
+ 1278  git add.
+ 1279  git add .
+ 1280  git commit -m "indo"
+ 1281  git push
+ 1282  git push --set-upstream origin deterministic_election 
+ 1289  git status 
+ 1290  git pull
+ 1357  git status 
+ 1358  git add .
+ 1359  git commit -m "bugs e mais bugs"
+ 1360  git push
+ 1361  git pull
+ 1391  git status 
+ 1394  git status 
+ 1395  git add .
+ 1396  git commit -m "done"
+ 1397  git push
+ 1398  git checkout -b random_election
+ 1444  git status 
+ 1445  git add .
+ 1446  git commit -m "quase la"
+ 1447  git push 
+ 1448  git push --set-upstream origin random_election 
+ 1525  git clone git@github.com:Ricardows7/Machine-Learning---Classification-and-Representation.git
+ 1532  git status 
+ 1534  git status 
+ 1535  git ad .
+ 1536  git add .
+ 1537  git commit -m "Validation Group"
+ 1544  git status 
+ 1545  git add .
+ 1546  git log
+ 1547  git status 
+ 1548  git commit -m "New representations"
+ 1549  git status 
+ 1550  git add .
+ 1551  git commit -m "Normalization added"
+ 1552  git push
+ 1565  git pull
+ 1572  git init
+ 1573  git status 
+ 1574  git ad .
+ 1575  git add .
+ 1576  git commit -m "PlayFair implementation"
+ 1577  git status 
+ 1578  git remote add origin git@github.com:Ricardows7/Crypto-1.git
+ 1579  git branch -M main
+ 1580  git push -u origin main 
+ 1591  git status 
+ 1592  git pull
+ 1594  git status 
+ 1595  vim .gitignore 
+ 1596  git status 
+ 1597  git add .
+ 1598  git commit -m "Pre changes"
+ 1599  git push
+ 1600  git status 
+ 1617  git status 
+ 1618  git add .
+ 1619  git commit -m "testing new version"
+ 1620  git push
+ 1629  git pull
+ 1644  git status 
+ 1645  vim .gitignore 
+ 1646  git status 
+ 1647  git add .gitignore 
+ 1648  git status 
+ 1649  git add IEEEFormat/IEEEFormat/relatorio_overleaf.tex 
+ 1650  git status 
+ 1651  git commit -m "Report ongoing"
+ 1652  git push
+ 1654  git status 
+ 1658  git clone git@github.com:Ricardows7/app.git
+ 1666  cd ./.git/
+ 1670  ls .git/
+ 1690  git sta
+ 1692  git status 
+ 1693  git checkout -b setup
+ 1694  git status 
+ 1695  git add .
+ 1723  git status 
+ 1724  git commit -m "Setting up"
+ 1725  git push
+ 1726  git push --set-upstream origin setup 
+ 1738  git pull
+ 1741  git status 
+ 1742  git add .
+ 1743  git commit -m "Proceding with test implementation"
+ 1744  git push
+ 1753  git status 
+ 1755  git status 
+ 1756  git diff test.py
+ 1770  git pull
+ 1777  git pull
+ 1779  git status 
+ 1781  git stash 
+ 1782  git pull
+ 1897  git init
+ 1900  rm -rf .git
+ 1903  git init 
+ 1907  git status 
+ 1908  git add .
+ 1910  git status 
+ 1911  git add .
+ 1912  git status 
+ 1914  git status 
+ 1915  git add .
+ 1916  git commit -m "commit in
+ 1917  git branch 
+ 1918  git push -u origin main 
+ 1919  git remote add origin git@github.com:Ricardows7/Exercicio-git-qualidade.git
+ 1920  git rm origin
+ 1921  git remote remove origin 
+ 1922  git remote add origin git@github.com:Ricardows7/Exercicio-git-qualidade.git
+ 1923  git push -u origin main 
+ 1925  git push -u origin main 
+ 1926  git branch --r
+ 1927  git branch --v
+ 1928  git remote 
+ 1929  git push 
+ 1930  git push --set-upstream origin main 
+ 1931  git push -v --set-upstream origin main 
+ 1932  ssh -vT git@github.com
+ 1933  SSH_AUTH_SOCK="" ssh -T git@github.com
+ 1934  git config --global core.sshCommand 'SSH_AUTH_SOCK="" ssh'
+ 1935  git push -u origin main 
+ 1938  git add .
+ 1939  git status 
+ 1940  git commit -m "pemitir cadastrar usuario segundo video"
+ 1941  git push
+ 1942  git reflog 
+ 1943  git reset --HARD ccd8244
+ 1944  git reset --hard ccd8244
+ 1945  git reflog
+ 1946  git reset --hard 7b9
+ 1947  git reset --hard 7b9b601
+ 1948  git branch -b staging
+ 1949  git branch staging
+ 1950  git branch 
+ 1951  git checkout staging 
+ 1952  git branch 
+ 1954  git status 
+ 1955  git add .
+ 1956  git commit -m "adicionando nome completo"
+ 1957  git status 
+ 1958  git push
+ 1959  git push --set-upstream origin staging 
+ 1960  git branch 
+ 1961  git checkout main 
+ 1962  git bre
+ 1963  git merge staging 
+ 1964  git push
+ 1965  git pull
+ 1966  git merge staging 
+ 1967  git checkout -b sistema-de-login main 
+ 1968  git branch 
+ 1970  git add .
+ 1971  git commit -m "criado sistema de login"
+ 1972  git checkout main 
+ 1973  git pull 
+ 1974  git merge sistema-de-login 
+ 1975  git push
+ 1976  git checkout sistema-de-login 
+ 1978  git add .
+ 1979  git commit -m "adicionado sistema de senha"
+ 1980  git push
+ 1981  git push --set-upstream origin sistema-de-login 
+ 1984  touch .gitignore
+ 1985  vim .gitignore 
+ 1986  git status 
+ 1989  git status 
+ 1990  vim .gitignore g
+ 1992  git branch 
+ 1994  vim .gitignore 
+ 1995  git branch 
+ 1996  git status 
+ 1997  git add .
+ 1998  git commit -m "adicionando arquivo .gitignore"
+ 1999  git push
+ 2000  git checkout main 
+ 2004  git log --all --graph --oneline
+ 2005  # 2. Lista os arquivos ocultos para confirmar o .gitignore
+ 2007  git checkout main
+ 2008  git merge staging
+ 2009  git push origin main
+ 2010  git checkout main
+ 2011  git pull origin main
+ 2015  git init
+ 2016  git remote add origin git@github.com:Ricardows7/Exercicio-git-qualidade.git
+ 2017  git status 
+ 2018  git branch 
+ 2019  git pull main
+ 2020  git pull origin main
+ 2022  git add ,
+ 2023  git add .
+ 2024  git commit -m "adicionado operacao via outro repositorio"
+ 2025  git status 
+ 2026  git checkout -b novo_colega
+ 2027  git status 
+ 2028  git push
+ 2029  git push --set-upstream origin novo_colega 
+ 2030  history | grep git > comandos_efetuados.txt
+ 2031  git add .
+ 2035  history | grep git > comandos_efetuados.txt
+ 2036  git add .
+ 2037  git commit -m" historico de comandos git"
+ 2038  git push
+ 2040  git checkout staging 
+ 2041  git status 
+ 2042  history | awk '$1 >= 1050' | grep git > comandos_efetuados.txt
